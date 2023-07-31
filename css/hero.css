@@ -1,0 +1,54 @@
+html, body{
+	font-family: impact;
+	margin: 0;
+	}
+header{
+	background-color: #553BA4;
+	padding: 40px;
+	text-align: center;
+}
+h1{
+	font-size: 90px;
+	color: white;
+	} 
+header img{
+	border-radius: 150px;
+	width: 300px;
+	border: 20px solid #Dccd12;
+}
+
+.content{
+	max-width: 650px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+	img.big-image{
+		max-width: 100%;
+		}
+	p.caption{
+		font-size: 16px;
+		color: darkslategrey;
+		font-style: italic;
+	}
+	ul{
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+	a{
+		color: darkgoldenrod;
+		text-decoration: bold;
+		}
+	footer{
+		margin-top: 60px;
+		padding: 40px 20px;
+		background-color: #Dacfb8;
+		}
+	footer ul li{
+		
+		text-align: center;
+	}
+/*<header>
+		<img src="img/profile.jpg">
+		<h1>Dire</h1>
+	</header>*/ 
