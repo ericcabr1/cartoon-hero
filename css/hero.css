@@ -10,11 +10,14 @@ header{
 h1{
 	font-size: 90px;
 	color: white;
-	} 
+	text-shadow: -3px 0px 20px black;
+} 
+
 header img{
 	border-radius: 150px;
 	width: 300px;
 	border: 20px solid #Dccd12;
+	box-shadow: 10px 10px 7px black;
 }
 
 .content{
